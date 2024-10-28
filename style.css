@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    font-size: 3rem;
+}
+
+
+
+li { /*remove os bullet points*/
+    list-style-type: none;
+}
